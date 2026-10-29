@@ -3146,6 +3146,12 @@ function scr_KSW_SetFishes()
 	scr_KSW_AddFish("The Underling",spr_KSW_Fish_The_Underling,spr_KSW_Fish_The_Underling_Pal,series_badendtheater,flux,2,serranoSprings,KSW_Phases.night,8000,-15,-16);
 	scr_KSW_AddFish("The Overlord",spr_KSW_Fish_The_Overlord,spr_KSW_Fish_The_Overlord_Pal,series_badendtheater,candy,3,hallowReen,KSW_Phases.none,8000,-19,-16);
 	scr_KSW_AddFish("Crappy Looking FIsh",spr_KSW_Fish_Crappy_Looking_Fish,spr_KSW_Fish_Crappy_Looking_Fish_Pal,series_tadc,borange,2,grassBeach,KSW_Phases.none,5350,-70,-48,,snd_KSW_Fish_ZachHadel);
+	scr_KSW_AddFish("Source",spr_KSW_Fish_Source,spr_KSW_Fish_Source_Pal,series_OFF,legion,1,cloudyPark,KSW_Phases.none,1000,);
+	scr_KSW_AddFish("Maldicion",spr_KSW_Fish_Maldicion,spr_KSW_Fish_Maldicion_Pal,series_OFF,legion,1,cloudyPark,KSW_Phases.none,2000,5,-3);
+	scr_KSW_AddFish("Herodotus And Paslmanazar",spr_KSW_Fish_HerodotusAndPsalmanazar,spr_KSW_Fish_HerodotusAndPsalmanazar_Pal,series_OFF,legion,2,cloudyPark,KSW_Phases.none,3000,23,-13);
+	scr_KSW_AddFish("Justus",spr_KSW_Fish_Justus,spr_KSW_Fish_Justus_Pal,series_OFF,legion,2,cloudyPark,KSW_Phases.none,4000,10,45);
+	scr_KSW_AddFish("Carnival",spr_KSW_Fish_Carnival,spr_KSW_Fish_Carnival_Pal,series_OFF,legion,3,cloudyPark,KSW_Phases.none,5000,1,10);
+	scr_KSW_AddFish("Cob",spr_KSW_Fish_Cob,spr_KSW_Fish_Cob_Pal,series_OFF,legion,3,cloudyPark,KSW_Phases.none,6000,15,9);
 	#endregion
 	#endregion
 }
